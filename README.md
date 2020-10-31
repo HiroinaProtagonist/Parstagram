@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/HiroinaProtagonist/Parstagram/blob/master/assignment6_ezgif.gif?raw=true" title="Unit 6 Video Walkthrough" alt="Unit 6 Video Walkthrough" width="250px"/><br>
+<img src="https://github.com/HiroinaProtagonist/Parstagram/blob/main/assignment6_ezgif.gif?raw=true" title="Unit 6 Video Walkthrough" alt="Unit 6 Video Walkthrough" width="250px"/><br>
