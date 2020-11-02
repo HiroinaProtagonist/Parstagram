@@ -40,7 +40,7 @@ The following **required** functionality is completed:
 - [x] User can take a photo, add a caption, and post it to the server. (3pt)
 - [x] User can view the last 20 posts. (4pts)
 
-  Note: The constraint issue was resolved in assignment 6.
+  Note: The constraint issue preventing the image from displaying at the right size was resolved in assignment 6.
 
 The following **bonus** features are implemented:
 
