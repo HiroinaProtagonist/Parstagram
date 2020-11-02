@@ -34,11 +34,12 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] User sees app icon in home screen and styled launch screen. (1pt) Added in []()
+- [x] User sees app icon in home screen and styled launch screen. (1pt) Added in [6cfb5e4](https://github.com/HiroinaProtagonist/Parstagram/commit/6cfb5e4365548ef22e48acc405b6c18f1a58720c)
 - [x] User can sign up to create a new account. (1pt)
 - [x] User can log in. (1pt)
 - [x] User can take a photo, add a caption, and post it to the server. (3pt)
 - [x] User can view the last 20 posts. (4pts)
+  Note: The constraint issue was resolved in assignment 6.
 
 The following **bonus** features are implemented:
 
